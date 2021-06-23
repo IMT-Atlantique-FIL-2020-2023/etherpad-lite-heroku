@@ -1,4 +1,0 @@
-[submodule "etherpad-lite"]
-	path = etherpad-lite
-	url = https://github.com/IMT-Atlantique-FIL-2020-2023/etherpad-lite.git
-	branch = develop
