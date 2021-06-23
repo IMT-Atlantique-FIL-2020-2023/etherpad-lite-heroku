@@ -2,7 +2,6 @@
   "___apiKey": "dL4GrW1WYIG4WQliTK5ZLdVjyDj64Lpno9GsS3Pg5W5UGupKg6ufksWxmvgG",
   "___sessionKey": "sn52jBlM6aUXVB89vvAHNoMxJShcR25ZhEY4FxIsdL4GrW1WYIG4W",
   "title": "Etherpad-Lite Heroku",
-  "favicon": "favicon.ico",
   "ssl": false,
   "dbType": "postgres",
   "dbSettings": "postgres://igctjhjvpnxnwz:7be215187a127724816cc20fadaf0b68a451027ec1acaca0ded935a902e4bb96@ec2-52-19-170-215.eu-west-1.compute.amazonaws.com:5432/d9ncjuaksd87mb",
